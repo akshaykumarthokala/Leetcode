@@ -14,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshaykumarthokala/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/akshaykumarthokala/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
