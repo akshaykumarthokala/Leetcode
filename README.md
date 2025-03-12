@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/akshaykumarthokala/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/akshaykumarthokala/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/akshaykumarthokala/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/akshaykumarthokala/leetcode/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshaykumarthokala/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/akshaykumarthokala/leetcode/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/akshaykumarthokala/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/akshaykumarthokala/leetcode/tree/master/0053-maximum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshaykumarthokala/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/akshaykumarthokala/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/akshaykumarthokala/leetcode/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
