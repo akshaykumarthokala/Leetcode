@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/akshaykumarthokala/leetcode/tree/master/0027-remove-element) |
 | [0051-n-queens](https://github.com/akshaykumarthokala/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akshaykumarthokala/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/akshaykumarthokala/leetcode/tree/master/0054-spiral-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/akshaykumarthokala/leetcode/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/akshaykumarthokala/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/akshaykumarthokala/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
