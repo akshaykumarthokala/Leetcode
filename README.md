@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/akshaykumarthokala/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/akshaykumarthokala/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/akshaykumarthokala/leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/akshaykumarthokala/leetcode/tree/master/0062-unique-paths) |
 ## Math
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akshaykumarthokala/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/akshaykumarthokala/leetcode/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/akshaykumarthokala/leetcode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/akshaykumarthokala/leetcode/tree/master/0062-unique-paths) |
 ## Array
 |  |
 | ------- |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshaykumarthokala/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/akshaykumarthokala/leetcode/tree/master/0059-spiral-matrix-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/akshaykumarthokala/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
