@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/akshaykumarthokala/leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/akshaykumarthokala/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/akshaykumarthokala/leetcode/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/akshaykumarthokala/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akshaykumarthokala/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/akshaykumarthokala/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshaykumarthokala/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0073-set-matrix-zeroes](https://github.com/akshaykumarthokala/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/akshaykumarthokala/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/akshaykumarthokala/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/akshaykumarthokala/leetcode/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/akshaykumarthokala/leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
