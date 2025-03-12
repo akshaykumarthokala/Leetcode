@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/akshaykumarthokala/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/akshaykumarthokala/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/akshaykumarthokala/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/akshaykumarthokala/leetcode/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshaykumarthokala/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/akshaykumarthokala/leetcode/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
